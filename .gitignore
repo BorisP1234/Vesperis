@@ -1,0 +1,21 @@
+# Go
+Proxy/bin/
+Proxy/pkg/
+Proxy/vendor/
+
+# Java
+Server/out/
+Server/target/
+
+# IntelliJ IDEA
+.idea/
+
+# VSCode
+.vscode/
+
+Proxy/config.yml
+Server/configs/
+Server/Lobby.iml
+Server/Server.iml
+Server/ThemePark.iml
+Server/Universal.iml
