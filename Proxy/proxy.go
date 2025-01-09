@@ -1,7 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"github.com/BorisP1234/vesperis/proxy/logger"
+	"go.minekube.com/gate/cmd/gate"
+)
 
 func main() {
-	fmt.Println("Starting Vesperis Proxy...")
+	logger.CreateLogger()
+	logger := logger.GetLogger()
+	logger.Info("Starting Vesperis Proxy...")
+	gate.Execute()
 }

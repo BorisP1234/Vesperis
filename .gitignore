@@ -13,7 +13,9 @@ Server/target/
 # VSCode
 .vscode/
 
-Proxy/config.yml
+Proxy/*.yml
+Proxy/*.log
+
 Server/configs/
 Server/Lobby.iml
 Server/Server.iml
