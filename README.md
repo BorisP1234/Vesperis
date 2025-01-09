@@ -1,5 +1,5 @@
 # VesperisMC
-<img alt="GitHub License" src="https://img.shields.io/github/license/BorisP1234/Vesperis?color=red&cacheSeconds=1&link=https%3A%2F%2Fgithub.com%2FBorisP1234%2FVesperis%2Fblob%2Fmain%2FLICENSE">
+<object alt="GitHub License" src="https://img.shields.io/github/license/BorisP1234/Vesperis?color=red&cacheSeconds=1&link=https%3A%2F%2Fgithub.com%2FBorisP1234%2FVesperis%2Fblob%2Fmain%2FLICENSE">
 
 <img alt="GitHub License" src="https://img.shields.io/github/license/BorisP1234/Vesperis?color=red&link=https%3A%2F%2Fgithub.com%2FBorisP1234%2FVesperis%2Fblob%2Fmain%2FLICENSE">
 
