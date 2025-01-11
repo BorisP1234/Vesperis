@@ -17,7 +17,4 @@ Proxy/*.yml
 Proxy/*.log
 
 Server/configs/
-Server/Lobby.iml
-Server/Server.iml
-Server/ThemePark.iml
-Server/Universal.iml
+*.iml
