@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/redis/go-redis/v9"
-	"github.com/vesperismc/vesperis/proxy/logger"
+	"github.com/team-vesperis/vesperis/proxy/logger"
 )
 
 func initializeRedis() {

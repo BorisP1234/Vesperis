@@ -1,4 +1,4 @@
-module github.com/vesperismc/vesperis/proxy
+module github.com/team-vesperis/vesperis/proxy
 
 go 1.23.3
 
