@@ -3,8 +3,8 @@ package database
 import (
 	"context"
 
-	"github.com/BorisP1234/vesperis/proxy/logger"
 	"github.com/redis/go-redis/v9"
+	"github.com/vesperismc/vesperis/proxy/logger"
 )
 
 func initializeRedis() {
