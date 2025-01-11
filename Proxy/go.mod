@@ -1,4 +1,4 @@
-module github.com/BorisP1234/vesperis/proxy
+module github.com/vesperismc/vesperis/proxy
 
 go 1.23.3
 
@@ -6,6 +6,7 @@ require (
 	buf.build/gen/go/minekube/connect/protocolbuffers/go v1.36.1-20240220124425-904ce30425c9.1 // indirect
 	connectrpc.com/connect v1.17.0 // indirect
 	github.com/Tnze/go-mc v1.20.2 // indirect
+	github.com/VesperisMC/vesperis v0.0.0-20250111134941-32817126c86d // indirect
 	github.com/agext/levenshtein v1.2.3 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/coder/websocket v1.8.12 // indirect

@@ -18,4 +18,4 @@ Proxy/*.log
 
 Server/configs/
 *.iml
-Server/*/target/
+Server/*/target

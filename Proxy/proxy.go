@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/BorisP1234/vesperis/proxy/logger"
+	"github.com/vesperismc/vesperis/proxy/logger"
 	"go.minekube.com/gate/cmd/gate"
 )
 
